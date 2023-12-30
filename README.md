@@ -3,8 +3,8 @@
 - [AOPS](https://artofproblemsolving.com/wiki/index.php/LaTeX:LaTeX_on_AoPS)
 - https://www.overleaf.com/learn/latex/code_listing
 - https://en.wikibooks.org/wiki/LaTeX/Source_Code_Listings
-https://mathpix.com/ - Latex
-https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes#Why_learn_LaTeX.3F
+- https://mathpix.com/
+- https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes#Why_learn_LaTeX.3F
 
 [Apple Pages - Math Equations](https://support.apple.com/en-ca/guide/pages/tanca5a4fbd9/mac#:~:text=in%20the%20toolbar%2C%20then%20choose,Click%20Use%20Pages)
 
