@@ -27,8 +27,10 @@
 \end{figure}
 ```
 
+```latex
 \begin{wrapfigure}{r}{0.35\textwidth}
 \includegraphics[width=0.9\linewidth]{images/fig9_queens_80_log_fn_call_analysis.png}
 \caption{Performance in count of function calls for varying input sizes}
 \label{fig:figure9}
 \end{wrapfigure}
+```
