@@ -1,3 +1,6 @@
+# Latex in Powerpoint
+https://www.jonathanleroux.org/software/iguanatex/
+
 # References
 - [Latex Cookbook](https://latex-cookbook.net/)
 - [AOPS](https://artofproblemsolving.com/wiki/index.php/LaTeX:LaTeX_on_AoPS)
