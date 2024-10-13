@@ -1,3 +1,12 @@
+For Double Quotes - Use backticks and apostrophe ``I'm just going out.''
+
+### Referencing the Figure
+Once you've labeled your figure, you can refer to it anywhere in your document using the \ref command:
+
+```latex
+See Figure \ref{fig:your-label} on page \pageref{fig:your-label}.
+```
+
 ```latex
 \begin{wrapfigure}{r}{0.35\textwidth}
 \includegraphics[width=0.9\linewidth]{images/fig2_ContinuousPeaks_states_score.png}
