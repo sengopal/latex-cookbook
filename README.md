@@ -1,3 +1,5 @@
+> CHEATSHEETS are not created by me. The rights belong to the appropriate creators.
+
 # Latex in Powerpoint
 https://www.jonathanleroux.org/software/iguanatex/
 
