@@ -3,18 +3,14 @@
 # Latex in Powerpoint
 https://www.jonathanleroux.org/software/iguanatex/
 
-# References
+# Latex Learning
 - [Latex Cookbook](https://latex-cookbook.net/)
 - [AOPS](https://artofproblemsolving.com/wiki/index.php/LaTeX:LaTeX_on_AoPS)
-- https://www.overleaf.com/learn/latex/code_listing
-- https://en.wikibooks.org/wiki/LaTeX/Source_Code_Listings
-- https://mathpix.com/
+- [Code Listing](https://www.overleaf.com/learn/latex/code_listing)
+- [Listings package](https://en.wikibooks.org/wiki/LaTeX/Source_Code_Listings)
 - https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes#Why_learn_LaTeX.3F
 - [Apple Pages - Math Equations](https://support.apple.com/en-ca/guide/pages/tanca5a4fbd9/mac#:~:text=in%20the%20toolbar%2C%20then%20choose,Click%20Use%20Pages)
-
-### Latex Learning
-https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes#Writing_your_first_piece_of_LaTeX
-https://www.youtube.com/watch?v=0ivLZh9xK1Q&list=PL1D4EAB31D3EBC449
+- https://www.youtube.com/watch?v=0ivLZh9xK1Q&list=PL1D4EAB31D3EBC449
 
 ### Mathematical Symbols
 https://www.rapidtables.com/math/symbols/Algebra_Symbols.html
